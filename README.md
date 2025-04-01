@@ -18,7 +18,7 @@
 
 ## 🤝 Connect With Me
 <p>
-    <a href="https://www.linkedin.com/in/ismael-ramos-%C3%A1lvarez-5b12a0359/" target="blank">
+    <a href="https://www.linkedin.com/in/ismael-ramos-alvarez/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
     </a>
     <a href="https://www.kaggle.com/chisma" target="blank">
